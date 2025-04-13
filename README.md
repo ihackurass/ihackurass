@@ -197,23 +197,49 @@ Aplicación de escritorio desarrollada en C# con Windows Forms para gestión de 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tuusuario&theme=tokyonight_duo" alt="tuusuario" /></p>
 </details>
 
-## 📚 Recursos y Proyectos
-
-- [Tutoriales sobre decompilación de ejecutables Python](https://github.com/tuusuario/python-reverse)
-- [Ejemplos de APIs con PHP](https://github.com/tuusuario/php-api-examples)
-- [Colección de scrapers para diferentes sitios](https://github.com/tuusuario/web-scrapers)
-- [Ejemplos de aplicaciones de escritorio con C# y Java](https://github.com/tuusuario/desktop-apps)
-
-<p align = "center">
-	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
+<details><summary><h3>🏆 Trofeos de GitHub</h3></summary>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=tuusuario&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="tuusuario" />
+  </a>
 </p>
+</details>
 
 ---
 
-## 🐍 Un Snake comiendo mis contribuciones
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Mis Repositorios
+
+<div>
+  <p align="center">
+    <a href="https://github.com/tuusuario/PyExtractor">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=tuusuario&repo=PyExtractor&theme=tokyonight" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/tuusuario/RestAPI-PHP">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=tuusuario&repo=RestAPI-PHP&theme=tokyonight" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/tuusuario/WebScraper">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=tuusuario&repo=WebScraper&theme=tokyonight" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/tuusuario/DesktopManager">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=tuusuario&repo=DesktopManager&theme=tokyonight" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/tuusuario/python-reverse">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=tuusuario&repo=python-reverse&theme=tokyonight" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/tuusuario/php-api-examples">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=tuusuario&repo=php-api-examples&theme=tokyonight" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/tuusuario/web-scrapers">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=tuusuario&repo=web-scrapers&theme=tokyonight" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/tuusuario/desktop-apps">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=tuusuario&repo=desktop-apps&theme=tokyonight" alt="GitHub Stats" />
+    </a>
+  </p>
+</div>
 
 <p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
 </p>
 
 <div align="center">
