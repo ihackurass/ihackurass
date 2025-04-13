@@ -12,62 +12,61 @@
 
 ## 👨‍💻 Sobre mí
 
-Aficionado entusiasta de la **ingeniería inversa** y el **desarrollo backend**. Me apasiona descubrir cómo funcionan las aplicaciones por dentro y crear mis propias soluciones. Autodidacta en constante aprendizaje, disfruto especialmente trabajando con Python para proyectos de scraping, automatización y análisis de ejecutables.
+Aficionado a la **ingeniería inversa** y el **desarrollo backend**. Me apasiona descubrir cómo funcionan las aplicaciones por dentro y crear mis propias soluciones. Autodidacta en constante aprendizaje, disfruto especialmente trabajando con Python para proyectos de scraping, automatización y análisis de ejecutables.
 
 ```python
-class EnthusiastDeveloper:
+class Developer:
     def __init__(self):
         self.name = "Tu Nombre"
-        self.role = "Aficionado a la Ingeniería Inversa & Desarrollo Backend"
-        self.languages = {
-            "Python": "Intermedio",
-            "PHP": "Básico-Intermedio",
-            "C#": "Básico",
-            "Java": "Básico"
-        }
-        self.tools = ["PyInstaller", "Wireshark", "XAMPP", "Visual Studio", "Git"]
+        self.role = "Ingeniería Inversa & Desarrollo Backend"
+        self.languages = ["Python", "PHP", "C#", "Java"]
+        self.tools = ["PyInstaller", "Uncompyle6", "Frida", "Wireshark", "Burp Suite Free"]
+        self.frameworks = ["Flask", "Laravel", "Django", "WinForms", "Swing"]
         self.databases = ["MySQL", "SQLite"]
         
-    def reverse_engineer(self, python_executable):
-        # Especialidad en análisis de ejecutables Python
-        return extract_pyc(decompile(python_executable))
+    def reverse_engineer(self, target):
+        if target.endswith('.exe') and is_python_executable(target):
+            pyc_files = extract_pyc_from_pyinstaller(target)
+            return decompile_python_bytecode(pyc_files)
+        return "Archivo no soportado"
         
-    def build_backend(self, project_type):
-        if project_type == "web":
-            return create_php_api()
-        elif project_type == "automation":
-            return create_python_scraper()
-        else:
-            return create_desktop_app()
+    def create_project(self, project_type):
+        if project_type == "api":
+            return setup_php_rest_api()
+        elif project_type == "scraper":
+            return create_python_web_scraper()
+        elif project_type == "desktop":
+            return setup_csharp_app()
+        return "Proyecto personalizado"
 ```
 
 ## 🔧 Habilidades Técnicas
 
 ### Ingeniería Inversa
 - **Análisis de Ejecutables Python** - Desempaquetado de archivos PyInstaller y extracción de código fuente
-- **Decompilación de Bytecode Python** - Recuperación de archivos .pyc a código legible
-- **Análisis de Tráfico de Red** - Inspección básica de protocolos y comunicaciones HTTP
-- **Automatización de Tareas** - Scripts para facilitar procesos de análisis de aplicaciones
+- **Decompilación de Bytecode Python** - Recuperación de archivos .pyc a código Python legible
+- **Análisis de Tráfico de Red** - Inspección de protocolos y comunicaciones HTTP/HTTPS
+- **Herramientas de Instrumentación** - Uso de Frida para hooking básico en aplicaciones
 
 ### Desarrollo Backend
-- **APIs con PHP** - Desarrollo de endpoints RESTful simples con PHP y MySQL
+- **APIs con PHP** - Desarrollo de endpoints RESTful con PHP y MySQL
 - **Aplicaciones Python** - Creación de scrapers, bots y herramientas de automatización
-- **Interfaces de Usuario Básicas** - Aplicaciones de escritorio con C# y Windows Forms
-- **Aplicaciones Java** - Programas básicos con interfaces gráficas usando Swing
+- **Interfaces de Usuario** - Aplicaciones de escritorio con C# y Windows Forms
+- **Aplicaciones Java** - Programas con interfaces gráficas usando Swing
 
 ## 🚀 Proyectos Destacados
 
 ### 🔍 PyExtractor
-Herramienta simple para extraer código fuente de aplicaciones empaquetadas con PyInstaller. Facilita la recuperación de scripts Python de ejecutables compilados.
+Herramienta para extraer código fuente de aplicaciones empaquetadas con PyInstaller. Utiliza técnicas de ingeniería inversa para recuperar scripts Python de ejecutables compilados.
 
-### 🌐 SimpleAPI
-API RESTful básica desarrollada con PHP y MySQL para gestionar una colección personal (libros, películas, etc). Incluye autenticación simple y operaciones CRUD.
+### 🌐 RestAPI-PHP
+API RESTful desarrollada con PHP y MySQL para gestión de datos. Incluye autenticación JWT, operaciones CRUD y documentación con Swagger.
 
 ### 🤖 WebScraper
-Conjunto de scripts en Python utilizando BeautifulSoup y Requests para extraer información de sitios web y guardarla en formatos útiles (CSV, JSON, SQLite).
+Conjunto de scripts en Python utilizando BeautifulSoup, Selenium y Requests para extraer información de sitios web y guardarla en formatos útiles (CSV, JSON, SQLite).
 
-### 🖥️ TaskManager
-Aplicación de escritorio básica desarrollada en C# con Windows Forms para gestionar tareas diarias y establecer recordatorios.
+### 🖥️ DesktopManager
+Aplicación de escritorio desarrollada en C# con Windows Forms para gestión de tareas, inventario y generación de reportes.
 
 ## 📈 Estadísticas
 
@@ -79,23 +78,23 @@ Aplicación de escritorio básica desarrollada en C# con Windows Forms para gest
   
 </div>
 
-## 📚 Recursos y Aprendizaje
+## 📚 Recursos y Proyectos
 
-- [Mis notas sobre decompilación de ejecutables Python](https://github.com/tuusuario/notas)
-- [Tutorial: Creando tu primera API con PHP y MySQL](https://github.com/tuusuario/tutoriales)
-- [Guía básica de scraping ético con Python](https://github.com/tuusuario/guias)
-- [Ejemplos de aplicaciones de escritorio con C# y Java](https://github.com/tuusuario/ejemplos)
+- [Tutoriales sobre decompilación de ejecutables Python](https://github.com/tuusuario/python-reverse)
+- [Ejemplos de APIs con PHP](https://github.com/tuusuario/php-api-examples)
+- [Colección de scrapers para diferentes sitios](https://github.com/tuusuario/web-scrapers)
+- [Ejemplos de aplicaciones de escritorio con C# y Java](https://github.com/tuusuario/desktop-apps)
 
 ## 🌐 Comunidad
 
-Entusiasta de la comunidad open source, disfruto aprendiendo de proyectos existentes y compartiendo mis pequeñas contribuciones. Participo en foros de ayuda y grupos de estudio para seguir mejorando mis habilidades. Siempre buscando colaborar con otros aficionados en proyectos interesantes.
+Participante activo en comunidades de desarrollo y seguridad informática. Comparto código, tutoriales y colaboro en proyectos open source cuando es posible. Siempre buscando aprender y compartir conocimientos con otros desarrolladores.
 
 ---
 
 <div align="center">
   
-  *"La curiosidad es el motor del aprendizaje. Cada día intento entender un poco más sobre cómo funcionan las cosas por dentro."*
+  *"Entender cómo funciona algo es el primer paso para mejorarlo."*
   
-  ### 👁️ ¿Interesado en intercambiar ideas o aprender juntos? [¡Contáctame!](mailto:contacto@ejemplo.com)
+  ### 👁️ ¿Interesado en colaborar en proyectos? [¡Contáctame!](mailto:contacto@ejemplo.com)
   
 </div>
