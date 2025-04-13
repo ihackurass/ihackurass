@@ -181,30 +181,6 @@ Aplicación de escritorio desarrollada en C# con Windows Forms para gestión de 
 	<a href="https://www.twitter.com/tuusuario"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=plastic&logo=twitter&logoColor=white" alt="Twitter"/></a>
 </p>
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> GitHub Stats
-
-<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
-<p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="tuusuario's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tuusuario&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="tuusuario" height="230px"/>
-<br/>
-  <b>Note:</b> Los lenguajes principales son solo una métrica del código público y no reflejan experiencia o nivel de habilidad.
-  </p>
-</details>
-
-<details><summary><h3>🔥 Streak Stats</h3></summary>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tuusuario&theme=tokyonight_duo" alt="tuusuario" /></p>
-</details>
-
-<details><summary><h3>🏆 Trofeos de GitHub</h3></summary>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=tuusuario&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="tuusuario" />
-  </a>
-</p>
-</details>
-
 ---
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Mis Repositorios
@@ -238,13 +214,13 @@ Aplicación de escritorio desarrollada en C# con Windows Forms para gestión de 
   </p>
 </div>
 
-<p align = "center">
-	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
+<p align="center">
+  <img alt="Cita motivacional" src="https://i.imgur.com/TbGKBRO.png" width="600px"/>
 </p>
 
 <div align="center">
   
-  *"Entender cómo funciona algo es el primer paso para mejorarlo."*
+  *"No es la especie más fuerte la que sobrevive, ni la más inteligente, sino la que mejor se adapta al cambio." - Charles Darwin*
   
   ### 👁️ ¿Interesado en colaborar en proyectos? [¡Contáctame!](mailto:contacto@ejemplo.com)
   
