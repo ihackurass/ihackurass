@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Ingeniero de Reversa & Desarrollador Backend <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hola, soy Bruno Garcia Lopez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Ingeniería+Inversa;Desarrollo+Backend;Python+Enthusiast;Scripting+y+Automatización;APIs+y+Web+Scraping;Aplicaciones+de+Escritorio;Aprendizaje+Continuo"></a>
@@ -213,10 +213,6 @@ Aplicación de escritorio desarrollada en C# con Windows Forms para gestión de 
     </a>
   </p>
 </div>
-
-<p align="center">
-  <img alt="Cita motivacional" src="https://i.imgur.com/TbGKBRO.png" width="600px"/>
-</p>
 
 <div align="center">
   
