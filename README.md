@@ -16,7 +16,7 @@
 
 <br><br>
 
-- 💻 Aficionado a la **ingeniería inversa** y el **desarrollo backend**
+- 💻 Apasionado por la **ingeniería inversa** y el **desarrollo backend**
 - 🔍 Especializado en análisis de ejecutables Python y decompilación de bytecode
 - 🛠️ Creador de herramientas de automatización y scraping web
 - 🌐 Desarrollador de APIs con PHP y MySQL
