@@ -30,11 +30,11 @@
 ```python
 class Developer:
     def __init__(self):
-        self.name = "Tu Nombre"
+        self.name = "Bruno Garcia"
         self.role = "Ingeniería Inversa & Desarrollo Backend"
         self.languages = ["Python", "PHP", "C#", "Java"]
-        self.tools = ["PyInstaller", "Uncompyle6", "Frida", "Wireshark", "Burp Suite Free"]
-        self.frameworks = ["Flask", "Laravel", "Django", "WinForms", "Swing"]
+        self.tools = ["Frida", "Wireshark", "Burp Suite","mitm"]
+        self.frameworks = ["Flask", "Laravel", "Django"]
         self.databases = ["MySQL", "SQLite"]
         
     def reverse_engineer(self, target):
