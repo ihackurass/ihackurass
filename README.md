@@ -7,7 +7,7 @@
 <br>
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=tuusuario&label=Profile%20views&color=0047AB&style=plastic?" alt="tuusuario" height=25px, width=160px/> 
+	<img src="https://komarev.com/ghpvc/?username=ihackurass&label=Profile%20views&color=0047AB&style=plastic?" alt="ihackurass" height=25px, width=160px/> 
 </p>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mí
@@ -107,13 +107,9 @@ class Developer:
   &emsp;
     <a href="#"><img alt="Wireshark" src="https://img.shields.io/badge/Wireshark%20-%231679A7.svg?style=plastic&logo=wireshark&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="PyInstaller" src="https://img.shields.io/badge/PyInstaller%20-%23161616.svg?style=plastic&logo=python&logoColor=white"></a>
-  &emsp;
     <a href="#"><img alt="Burp Suite" src="https://img.shields.io/badge/Burp%20Suite%20-%23FF6633.svg?style=plastic&logo=hacker-news&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Frida" src="https://img.shields.io/badge/Frida%20-%23EF5350.svg?style=plastic&logo=frida&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Uncompyle6" src="https://img.shields.io/badge/Uncompyle6%20-%235C2D91.svg?style=plastic&logo=python&logoColor=white"></a>
 </p>
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs & Herramientas
@@ -136,17 +132,17 @@ class Developer:
 <br>
 
 <p align="center">
-  <a href="https://github.com/tuusuario/PyExtractor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tuusuario&repo=PyExtractor&theme=tokyonight" alt="GitHub Stats" />
+  <a href="https://github.com/ihackurass/PyExtractor">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ihackurass&repo=PyExtractor&theme=tokyonight" alt="GitHub Stats" />
   </a>
-  <a href="https://github.com/tuusuario/RestAPI-PHP">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tuusuario&repo=RestAPI-PHP&theme=tokyonight" alt="GitHub Stats" />
+  <a href="https://github.com/ihackurass/RestAPI-PHP">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ihackurass&repo=RestAPI-PHP&theme=tokyonight" alt="GitHub Stats" />
   </a>
-  <a href="https://github.com/tuusuario/WebScraper">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tuusuario&repo=WebScraper&theme=tokyonight" alt="GitHub Stats" />
+  <a href="https://github.com/ihackurass/WebScraper">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ihackurass&repo=WebScraper&theme=tokyonight" alt="GitHub Stats" />
   </a>
-  <a href="https://github.com/tuusuario/DesktopManager">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tuusuario&repo=DesktopManager&theme=tokyonight" alt="GitHub Stats" />
+  <a href="https://github.com/ihackurass/DesktopManager">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ihackurass&repo=DesktopManager&theme=tokyonight" alt="GitHub Stats" />
   </a>
 </p>
 
@@ -166,9 +162,9 @@ Aplicación de escritorio desarrollada en C# con Windows Forms para gestión de 
 
 <div align="center">
   
-  ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)
+  ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ihackurass&show_icons=true&theme=radical)
   
-  ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=radical)
+  ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=ihackurass&layout=compact&theme=radical)
   
 </div>
 
@@ -176,9 +172,9 @@ Aplicación de escritorio desarrollada en C# con Windows Forms para gestión de 
 
 <p align="center">
 	<a href="mailto:contacto@ejemplo.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/tuusuario"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/tuusuario/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://www.twitter.com/tuusuario"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=plastic&logo=twitter&logoColor=white" alt="Twitter"/></a>
+	<a href="https://github.com/ihackurass"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/ihackurass/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://www.twitter.com/ihackurass"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=plastic&logo=twitter&logoColor=white" alt="Twitter"/></a>
 </p>
 
 ---
@@ -187,29 +183,29 @@ Aplicación de escritorio desarrollada en C# con Windows Forms para gestión de 
 
 <div>
   <p align="center">
-    <a href="https://github.com/tuusuario/PyExtractor">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=tuusuario&repo=PyExtractor&theme=tokyonight" alt="GitHub Stats" />
+    <a href="https://github.com/ihackurass/PyExtractor">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ihackurass&repo=PyExtractor&theme=tokyonight" alt="GitHub Stats" />
     </a>
-    <a href="https://github.com/tuusuario/RestAPI-PHP">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=tuusuario&repo=RestAPI-PHP&theme=tokyonight" alt="GitHub Stats" />
+    <a href="https://github.com/ihackurass/RestAPI-PHP">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ihackurass&repo=RestAPI-PHP&theme=tokyonight" alt="GitHub Stats" />
     </a>
-    <a href="https://github.com/tuusuario/WebScraper">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=tuusuario&repo=WebScraper&theme=tokyonight" alt="GitHub Stats" />
+    <a href="https://github.com/ihackurass/WebScraper">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ihackurass&repo=WebScraper&theme=tokyonight" alt="GitHub Stats" />
     </a>
-    <a href="https://github.com/tuusuario/DesktopManager">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=tuusuario&repo=DesktopManager&theme=tokyonight" alt="GitHub Stats" />
+    <a href="https://github.com/ihackurass/DesktopManager">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ihackurass&repo=DesktopManager&theme=tokyonight" alt="GitHub Stats" />
     </a>
-    <a href="https://github.com/tuusuario/python-reverse">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=tuusuario&repo=python-reverse&theme=tokyonight" alt="GitHub Stats" />
+    <a href="https://github.com/ihackurass/python-reverse">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ihackurass&repo=python-reverse&theme=tokyonight" alt="GitHub Stats" />
     </a>
-    <a href="https://github.com/tuusuario/php-api-examples">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=tuusuario&repo=php-api-examples&theme=tokyonight" alt="GitHub Stats" />
+    <a href="https://github.com/ihackurass/php-api-examples">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ihackurass&repo=php-api-examples&theme=tokyonight" alt="GitHub Stats" />
     </a>
-    <a href="https://github.com/tuusuario/web-scrapers">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=tuusuario&repo=web-scrapers&theme=tokyonight" alt="GitHub Stats" />
+    <a href="https://github.com/ihackurass/web-scrapers">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ihackurass&repo=web-scrapers&theme=tokyonight" alt="GitHub Stats" />
     </a>
-    <a href="https://github.com/tuusuario/desktop-apps">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=tuusuario&repo=desktop-apps&theme=tokyonight" alt="GitHub Stats" />
+    <a href="https://github.com/ihackurass/desktop-apps">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ihackurass&repo=desktop-apps&theme=tokyonight" alt="GitHub Stats" />
     </a>
   </p>
 </div>
