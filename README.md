@@ -17,7 +17,7 @@
 <br><br>
 
 - 💻 Apasionado por la **ingeniería inversa** y el **desarrollo backend**
-- 🔍 Especializado en análisis de ejecutables Python y decompilación de bytecode
+- 🔍 Especializado en análisis de ejecutables Python
 - 🛠️ Creador de herramientas de automatización y scraping web
 - 🌐 Desarrollador de APIs con PHP y MySQL
 - 🧩 Constructor de aplicaciones de escritorio con C# y Java
@@ -132,31 +132,13 @@ class Developer:
 <br>
 
 <p align="center">
-  <a href="https://github.com/ihackurass/PyExtractor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ihackurass&repo=PyExtractor&theme=tokyonight" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/ihackurass/RestAPI-PHP">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ihackurass&repo=RestAPI-PHP&theme=tokyonight" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/ihackurass/WebScraper">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ihackurass&repo=WebScraper&theme=tokyonight" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/ihackurass/DesktopManager">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ihackurass&repo=DesktopManager&theme=tokyonight" alt="GitHub Stats" />
+  <a href="https://github.com/ihackurass/AquaTrack-Peru">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ihackurass&repo=AquaTrack-Peru&theme=tokyonight" alt="GitHub Stats" />
   </a>
 </p>
 
-### 🔍 PyExtractor
-Herramienta para extraer código fuente de aplicaciones empaquetadas con PyInstaller. Utiliza técnicas de ingeniería inversa para recuperar scripts Python de ejecutables compilados.
-
-### 🌐 RestAPI-PHP
-API RESTful desarrollada con PHP y MySQL para gestión de datos. Incluye autenticación JWT, operaciones CRUD y documentación con Swagger.
-
-### 🤖 WebScraper
-Conjunto de scripts en Python utilizando BeautifulSoup, Selenium y Requests para extraer información de sitios web y guardarla en formatos útiles (CSV, JSON, SQLite).
-
-### 🖥️ DesktopManager
-Aplicación de escritorio desarrollada en C# con Windows Forms para gestión de tareas, inventario y generación de reportes.
+### 🌊 AquaTrack-Peru
+Aplicación Java de código abierto que proporciona una visualización geoespacial completa de los puntos de abastecimiento de agua en el Peru
 
 ## 📈 Estadísticas
 
@@ -171,9 +153,9 @@ Aplicación de escritorio desarrollada en C# con Windows Forms para gestión de 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Contacto
 
 <p align="center">
-	<a href="mailto:contacto@ejemplo.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="mailto:bruno.lopez292929@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/ihackurass"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/ihackurass/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://www.linkedin.com/in/brunojesgarlop/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://www.twitter.com/ihackurass"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=plastic&logo=twitter&logoColor=white" alt="Twitter"/></a>
 </p>
 
@@ -183,29 +165,8 @@ Aplicación de escritorio desarrollada en C# con Windows Forms para gestión de 
 
 <div>
   <p align="center">
-    <a href="https://github.com/ihackurass/PyExtractor">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ihackurass&repo=PyExtractor&theme=tokyonight" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/ihackurass/RestAPI-PHP">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ihackurass&repo=RestAPI-PHP&theme=tokyonight" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/ihackurass/WebScraper">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ihackurass&repo=WebScraper&theme=tokyonight" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/ihackurass/DesktopManager">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ihackurass&repo=DesktopManager&theme=tokyonight" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/ihackurass/python-reverse">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ihackurass&repo=python-reverse&theme=tokyonight" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/ihackurass/php-api-examples">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ihackurass&repo=php-api-examples&theme=tokyonight" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/ihackurass/web-scrapers">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ihackurass&repo=web-scrapers&theme=tokyonight" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/ihackurass/desktop-apps">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ihackurass&repo=desktop-apps&theme=tokyonight" alt="GitHub Stats" />
+    <a href="https://github.com/ihackurass/AquaTrack-Peru">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ihackurass&repo=AquaTrack-Peru&theme=tokyonight" alt="GitHub Stats" />
     </a>
   </p>
 </div>
