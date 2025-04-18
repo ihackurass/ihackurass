@@ -144,9 +144,9 @@ Aplicación Java de código abierto que proporciona una visualización geoespaci
 
 <div align="center">
   
-  ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ihackurass&show_icons=true&theme=radical)
+  ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ihackurass&show_icons=true&theme=algolia)
   
-  ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=ihackurass&layout=compact&theme=radical)
+  ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=ihackurass&layout=compact&theme=algolia)
   
 </div>
 
@@ -175,6 +175,6 @@ Aplicación Java de código abierto que proporciona una visualización geoespaci
   
   *"No es la especie más fuerte la que sobrevive, ni la más inteligente, sino la que mejor se adapta al cambio." - Charles Darwin*
   
-  ### 👁️ ¿Interesado en colaborar en proyectos? [¡Contáctame!](mailto:contacto@ejemplo.com)
+  ### 👁️ ¿Interesado en colaborar en proyectos? [¡Contáctame!](mailto:bruno.lopez292929@gmail.com)
   
 </div>
