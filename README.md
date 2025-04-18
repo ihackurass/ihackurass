@@ -137,8 +137,17 @@ class Developer:
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/ihackurass/AquaSocial">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ihackurass&repo=AquaSocial&theme=tokyonight" alt="GitHub Stats" />
+  </a>
+</p>
+
 ### 🌊 AquaTrack-Peru
 Aplicación Java de código abierto que proporciona una visualización geoespacial completa de los puntos de abastecimiento de agua en el Peru
+
+### 🌊 AquaSocial
+Plataforma Red social dedicada a los puntos de abastecimiento de agua en Perú
 
 ## 📈 Estadísticas
 
@@ -167,6 +176,11 @@ Aplicación Java de código abierto que proporciona una visualización geoespaci
   <p align="center">
     <a href="https://github.com/ihackurass/AquaTrack-Peru">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=ihackurass&repo=AquaTrack-Peru&theme=tokyonight" alt="GitHub Stats" />
+    </a>
+  </p>
+  <p align="center">
+    <a href="https://github.com/ihackurass/AquaSocial">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ihackurass&repo=AquaSocial&theme=tokyonight" alt="GitHub Stats" />
     </a>
   </p>
 </div>
