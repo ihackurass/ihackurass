@@ -138,8 +138,8 @@ class Developer:
 </p>
 
 <p align="center">
-  <a href="https://github.com/ihackurass/AquaSocial">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ihackurass&repo=AquaSocial&theme=tokyonight" alt="GitHub Stats" />
+  <a href="https://github.com/ihackurass/QoriPunku">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ihackurass&repo=QoriPunku&theme=tokyonight" alt="GitHub Stats" />
   </a>
 </p>
 
@@ -181,6 +181,16 @@ Plataforma Red social dedicada a los puntos de abastecimiento de agua en Perú
   <p align="center">
     <a href="https://github.com/ihackurass/AquaSocial">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=ihackurass&repo=AquaSocial&theme=tokyonight" alt="GitHub Stats" />
+    </a>
+  </p>
+  <p align="center">
+    <a href="https://github.com/ihackurass/QoriPunku">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ihackurass&repo=QoriPunku&theme=tokyonight" alt="GitHub Stats" />
+    </a>
+  </p>
+  <p align="center">
+    <a href="https://github.com/ihackurass/QoriPunku-Admin">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ihackurass&repo=QoriPunku-Admin&theme=tokyonight" alt="GitHub Stats" />
     </a>
   </p>
 </div>
