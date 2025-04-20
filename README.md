@@ -153,9 +153,9 @@ Plataforma Red social dedicada a los puntos de abastecimiento de agua en Perú
 
 <div align="center">
   
-  ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ihackurass&show_icons=true&theme=algolia)
+  ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ihackurass&show_icons=true&theme=transparent)
   
-  ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=ihackurass&layout=compact&theme=algolia)
+  ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=ihackurass&layout=compact&theme=transparent)
   
 </div>
 
