@@ -146,8 +146,8 @@ class Developer:
 ### 🌊 AquaTrack-Peru
 Aplicación Java de código abierto que proporciona una visualización geoespacial completa de los puntos de abastecimiento de agua en el Peru
 
-### 🌊 AquaSocial
-Plataforma Red social dedicada a los puntos de abastecimiento de agua en Perú
+### 🚪 QoriPunku (SecureGate)
+Sistema de control de acceso con verificación RFID y aprobación remota por WhatsApp para mayor seguridad.
 
 ## 📈 Estadísticas
 
