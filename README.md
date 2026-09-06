@@ -2,9 +2,11 @@
 
 <h3 align="center">Software Engineer · Automatización · Seguridad móvil</h3>
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
 ## 👨‍💻 Sobre mí
+
+<table>
+<tr>
+<td width="65%" valign="top">
 
 - 🏢 Practicante en **Bancom Perú**, con un año de experiencia profesional previa.
 - 🎓 Estudiante de Ingeniería de Software en el **tercio superior**.
@@ -14,7 +16,12 @@
 - 🚀 Mi meta es crecer como ingeniero y llegar a una **Big Tech**.
 - ⚽ Cuando no programo, juego fútbol o experimento con ideas diferentes.
 
-<br clear="right"/>
+</td>
+<td width="35%" align="center" valign="middle">
+  <img alt="Coding" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+</td>
+</tr>
+</table>
 
 ## 🛠️ Stack
 
@@ -55,8 +62,8 @@
 ## 📊 Estadísticas
 
 <p align="center">
-  <img width="48%" src="./profile/stats.svg" alt="Estadísticas de GitHub"/>
-  <img width="48%" src="./profile/top-langs.svg" alt="Lenguajes más usados"/>
+  <img height="195" src="./profile/stats.svg" alt="Estadísticas de GitHub"/>
+  <img height="195" src="./profile/top-langs.svg" alt="Lenguajes más usados"/>
 </p>
 
 ## 🤝 Contacto
