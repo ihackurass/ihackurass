@@ -1,204 +1,162 @@
-<h1 align="center">Hola, soy Bruno Garcia Lopez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hola, soy Bruno García López 👋</h1>
+
+<h3 align="center">Software Engineer · Automatización · Seguridad móvil</h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Ingeniería+Inversa;Desarrollo+Backend;Python+Enthusiast;Scripting+y+Automatización;APIs+y+Web+Scraping;Aplicaciones+de+Escritorio;Aprendizaje+Continuo"></a>
-</p>
-
-<br>
-
-<p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=ihackurass&label=Profile%20views&color=0047AB&style=plastic?" alt="ihackurass" height=25px, width=160px/> 
-</p>
-
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mí
-
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-
-<br><br>
-
-- 💻 Apasionado por la **ingeniería inversa** y el **desarrollo backend**
-- 🔍 Especializado en análisis de ejecutables Python
-- 🛠️ Creador de herramientas de automatización y scraping web
-- 🌐 Desarrollador de APIs con PHP y MySQL
-- 🧩 Constructor de aplicaciones de escritorio con C# y Java
-- 📚 Aprendizaje constante en seguridad informática y desarrollo
-- 🤝 Siempre abierto a colaborar en proyectos interesantes
-- 🔄 Buscando entender el funcionamiento interno de las aplicaciones
-
-<br>
-
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Bruno Garcia"
-        self.role = "Ingeniería Inversa & Desarrollo Backend"
-        self.languages = ["Python", "PHP", "C#", "Java"]
-        self.tools = ["Frida", "Wireshark", "Burp Suite","mitm"]
-        self.frameworks = ["Flask", "Laravel", "Django"]
-        self.databases = ["MySQL", "SQLite"]
-        
-    def reverse_engineer(self, target):
-        if target.endswith('.exe') and is_python_executable(target):
-            pyc_files = extract_pyc_from_pyinstaller(target)
-            return decompile_python_bytecode(pyc_files)
-        return "Archivo no soportado"
-        
-    def create_project(self, project_type):
-        if project_type == "api":
-            return setup_php_rest_api()
-        elif project_type == "scraper":
-            return create_python_web_scraper()
-        elif project_type == "desktop":
-            return setup_csharp_app()
-        return "Proyecto personalizado"
-```
-
-## 🛠️ Mis Habilidades
-
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Lenguajes de Programación
-
-<p align="center"> 
-  &emsp; 
-  <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://www.php.net/" target="_blank"> 
-    <img alt="PHP" src="https://img.shields.io/badge/PHP%20-%23777BB4.svg?style=plastic&logo=php&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="https://learn.microsoft.com/es-es/dotnet/csharp/" target="_blank"> 
-    <img alt="C#" src="https://img.shields.io/badge/C%23%20-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
-  </a>
-</p>
-
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Desarrollo Backend & Web
-
-<p align="center"> 
-  &emsp;
-  <a href="#" target="_blank">
-    <img alt="Flask" src="https://img.shields.io/badge/Flask%20-%23000000.svg?style=plastic&logo=flask&logoColor=white">
-  </a>
-  &emsp;
-  <a href="#" target="_blank">
-    <img alt="Laravel" src="https://img.shields.io/badge/Laravel%20-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white">
-  </a>
-  &emsp;
-  <a href="#" target="_blank">
-    <img alt="Django" src="https://img.shields.io/badge/Django%20-%23092E20.svg?style=plastic&logo=django&logoColor=white">
-  </a>
-  &emsp;
-  <a href="#" target="_blank">
-    <img alt="MySQL" src="https://img.shields.io/badge/MySQL%20-%234479A1.svg?style=plastic&logo=mysql&logoColor=white">
-  </a>
-  &emsp;
-  <a href="#" target="_blank">
-    <img alt="SQLite" src="https://img.shields.io/badge/SQLite%20-%23003B57.svg?style=plastic&logo=sqlite&logoColor=white">
-  </a>
-</p>
-
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Herramientas de Ingeniería Inversa
-
-<p align="center">
-  &emsp;
-    <a href="#"><img alt="Wireshark" src="https://img.shields.io/badge/Wireshark%20-%231679A7.svg?style=plastic&logo=wireshark&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Burp Suite" src="https://img.shields.io/badge/Burp%20Suite%20-%23FF6633.svg?style=plastic&logo=hacker-news&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Frida" src="https://img.shields.io/badge/Frida%20-%23EF5350.svg?style=plastic&logo=frida&logoColor=white"></a>
-</p>
-
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs & Herramientas
-
-<p align="center">
-  &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio%20-%235C2D91.svg?style=plastic&logo=visual-studio&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub%20-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="XAMPP" src="https://img.shields.io/badge/XAMPP%20-%23FB7A24.svg?style=plastic&logo=xampp&logoColor=white"></a>
-</p>
-
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> Proyectos Destacados
-
-<br>
-
-<p align="center">
-  <a href="https://github.com/ihackurass/AquaTrack-Peru">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ihackurass&repo=AquaTrack-Peru&theme=tokyonight" alt="GitHub Stats" />
-  </a>
+  Construyo software de extremo a extremo, automatizo procesos y analizo sistemas desde una perspectiva ofensiva y defensiva.
 </p>
 
 <p align="center">
-  <a href="https://github.com/ihackurass/QoriPunku">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ihackurass&repo=QoriPunku&theme=tokyonight" alt="GitHub Stats" />
-  </a>
+  <a href="mailto:bruno.lopez292929@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/brunojesgarlop/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://x.com/ihackurass"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"/></a>
+  <a href="https://github.com/ihackurass"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+  <img src="https://komarev.com/ghpvc/?username=ihackurass&label=Visitas&color=0e75b6&style=flat-square" alt="Visitas al perfil"/>
 </p>
 
-### 🌊 AquaTrack-Peru
-Aplicación Java de código abierto que proporciona una visualización geoespacial completa de los puntos de abastecimiento de agua en el Peru
+## Sobre mí
 
-### 🚪 QoriPunku (SecureGate)
-Sistema de control de acceso con verificación RFID y aprobación remota por WhatsApp para mayor seguridad.
+Programo desde los **16 años**. Empecé por curiosidad, intentando entender cómo funcionaban las aplicaciones por dentro, y esa curiosidad se convirtió en una forma de trabajar: investigar, diseñar, construir, automatizar y mejorar sistemas completos.
 
-## 📈 Estadísticas
+Actualmente soy **practicante en Bancom Perú** (antes Banco de Comercio) y cuento con **un año de experiencia profesional previa** como practicante. Me encuentro en el **tercio superior** de mi carrera y complemento mi formación académica desarrollando proyectos reales de backend, aplicaciones móviles, automatización y seguridad.
+
+- 💻 Desarrollo software mantenible, modular y orientado al negocio.
+- ⚙️ Automatizo procesos, pruebas e integraciones para reducir trabajo manual y errores.
+- 🔐 Realizo auditorías autorizadas de aplicaciones móviles, análisis de vulnerabilidades y pruebas de seguridad.
+- 📱 Tengo experiencia en pentesting móvil e ingeniería inversa sobre ARM.
+- 🧠 Soy amante de las estructuras de datos, los algoritmos y la resolución de problemas desde sus fundamentos, sin depender de la IA.
+- 🚀 Mi siguiente objetivo profesional es aportar y crecer como ingeniero en una Big Tech.
+- ⚽ Fuera del código, disfruto jugar fútbol y experimentar con ideas poco convencionales.
+
+## Áreas de especialización
+
+### Ingeniería de software y backend
+
+Diseño APIs, servicios y sistemas con separación clara de responsabilidades, pruebas automatizadas, persistencia, mensajería y observabilidad. He trabajado con arquitecturas modulares y hexagonales, integraciones en tiempo real y flujos tolerantes a fallos.
+
+### Automatización y QA
+
+Construyo herramientas para automatizar tareas operativas, consumo de APIs, extracción y transformación de datos, pruebas funcionales y validaciones end-to-end. Me interesa que el software sea reproducible, medible y fácil de verificar.
+
+### Seguridad e ingeniería inversa
+
+Analizo aplicaciones móviles y protocolos para comprender su superficie de ataque, detectar vulnerabilidades y proponer mitigaciones. Trabajo con análisis estático y dinámico, instrumentación, tráfico de red, arquitectura ARM y prácticas de desarrollo seguro, siempre dentro de entornos autorizados.
+
+## Stack tecnológico
+
+### Lenguajes
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+</p>
+
+### Desarrollo
+
+<p>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
+  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+</p>
+
+### Datos, integración y plataforma
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka"/>
+  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" alt="MQTT"/>
+  <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs"/>
+</p>
+
+### Seguridad, reversing y calidad
+
+<p>
+  <img src="https://img.shields.io/badge/Frida-EF5350?style=for-the-badge&logoColor=white" alt="Frida"/>
+  <img src="https://img.shields.io/badge/JADX-263238?style=for-the-badge&logo=android&logoColor=white" alt="JADX"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
+  <img src="https://img.shields.io/badge/ARM-0091BD?style=for-the-badge&logo=arm&logoColor=white" alt="ARM"/>
+  <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
+</p>
+
+## Proyectos destacados
+
+### 💧 EnRutaTuAgua · Proyecto privado
+
+Mi proyecto principal: una plataforma para coordinar la distribución de agua mediante camiones cisterna. Integra un backend Java/Spring Boot con arquitectura hexagonal y una aplicación Android nativa en Kotlin. Incluye planificación de rutas, operación offline, cadena de custodia del agua, tracking GPS en tiempo real, MQTT, WebSocket, Kafka y PostgreSQL/PostGIS.
+
+**Stack:** Java 21 · Spring Boot · Kotlin · Compose · PostgreSQL · MQTT · Kafka · Docker
+
+> El código se mantiene privado, pero el proyecto refleja mi trabajo en arquitectura, backend, mobile, sistemas distribuidos, pruebas y despliegue.
+
+### 🏢 FEBAN API · Proyecto privado
+
+Plataforma empresarial modular para procesos administrativos y de salud. Trabajé sobre servicios backend, aplicaciones web y módulos relacionados con clínicas, contratos, procedimientos médicos, personas, recursos humanos y seguridad.
+
+**Stack:** .NET · C# · APIs REST · Angular · TypeScript · SQL
+
+### 🌐 AquaSocial · Proyecto privado
+
+Producto full stack que reúne frontend y backend en una sola experiencia social. Comprende una aplicación web moderna, servicios API, autenticación, persistencia, pruebas end-to-end y despliegue, con énfasis en separación de responsabilidades y evolución mantenible.
+
+**Stack:** .NET · C# · Angular · TypeScript · Tailwind CSS · Playwright
+
+### 📲 [SMS-API](https://github.com/ihackurass/Google-Messages-SMS-API)
+
+API de integración y automatización para Google Messages, diseñada para convertir operaciones de mensajería en capacidades reutilizables por otros sistemas.
+
+### 🌊 [AquaTrack Perú](https://github.com/ihackurass/AquaTrack-Peru)
+
+Aplicación para visualizar y gestionar información geoespacial sobre puntos de abastecimiento de agua en Lima Metropolitana. Incluye mapas, búsqueda, filtros, favoritos, historial y administración de datos.
+
+**Stack:** Java · PHP · MySQL · JavaScript
+
+### 🧩 [CaptchaSolver](https://github.com/ihackurass/iHackUrAss_CaptchaSolver)
+
+Proyecto experimental de visión y automatización para el procesamiento de desafíos visuales.
+
+## Actualmente
+
+- 🏢 Practicante en **Bancom Perú**.
+- 🎓 Estudiante perteneciente al **tercio superior**.
+- 🧱 Profundizando en diseño de sistemas, arquitectura de software y sistemas distribuidos.
+- 🧮 Resolviendo problemas de estructuras de datos y algoritmos desde primeros principios y sin depender de la IA.
+- 🔐 Ampliando mis conocimientos en seguridad móvil, reversing ARM y desarrollo seguro.
+
+## Estadísticas
 
 <div align="center">
-  
-  ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ihackurass&show_icons=true&theme=transparent)
-  
-  ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=ihackurass&layout=compact&theme=transparent)
-  
+  <img height="180" src="./profile/stats.svg" alt="Estadísticas de GitHub"/>
+  <img height="180" src="./profile/top-langs.svg" alt="Lenguajes más usados"/>
 </div>
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Contacto
+## Contacto
+
+Estoy abierto a conectar con personas interesadas en ingeniería de software, automatización, seguridad móvil y proyectos técnicamente desafiantes.
 
 <p align="center">
-	<a href="mailto:bruno.lopez292929@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/ihackurass"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/brunojesgarlop/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://www.twitter.com/ihackurass"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=plastic&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="mailto:bruno.lopez292929@gmail.com"><img src="https://img.shields.io/badge/Escríbeme-por_Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/brunojesgarlop/"><img src="https://img.shields.io/badge/Conectemos-en_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 ---
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Mis Repositorios
-
-<div>
-  <p align="center">
-    <a href="https://github.com/ihackurass/AquaTrack-Peru">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ihackurass&repo=AquaTrack-Peru&theme=tokyonight" alt="GitHub Stats" />
-    </a>
-  </p>
-  <p align="center">
-    <a href="https://github.com/ihackurass/AquaSocial">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ihackurass&repo=AquaSocial&theme=tokyonight" alt="GitHub Stats" />
-    </a>
-  </p>
-  <p align="center">
-    <a href="https://github.com/ihackurass/QoriPunku">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ihackurass&repo=QoriPunku&theme=tokyonight" alt="GitHub Stats" />
-    </a>
-  </p>
-  <p align="center">
-    <a href="https://github.com/ihackurass/QoriPunku-Admin">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ihackurass&repo=QoriPunku-Admin&theme=tokyonight" alt="GitHub Stats" />
-    </a>
-  </p>
-</div>
-
 <div align="center">
-  
-  *"No es la especie más fuerte la que sobrevive, ni la más inteligente, sino la que mejor se adapta al cambio." - Charles Darwin*
-  
-  ### 👁️ ¿Interesado en colaborar en proyectos? [¡Contáctame!](mailto:bruno.lopez292929@gmail.com)
-  
+  <strong>Construir. Automatizar. Entender. Mejorar.</strong><br/>
+  <sub>Convirtiendo curiosidad técnica en software confiable desde los 16 años.</sub>
 </div>
+
